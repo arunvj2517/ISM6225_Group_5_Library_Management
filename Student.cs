@@ -1,10 +1,28 @@
-﻿namespace libraryManagementSystem
+﻿namespace USFLibraryManagementSystem
 {
-    public class Student
+    public class Student : Person
     {
-        static void Main(string[] args)
+        public string Major;
+        public int GraduationYear;
+
+        public Student(string name, string email, string id, string major, int graduationYear)
+            : base(name, email, id)
         {
-            Console.WriteLine("Initial code base for student class");
+            Major = major;
+            GraduationYear = graduationYear;
+        }
+
+
+
+        public override string ToString()
+        {
+            return $"Student: {Name}, ID: {ID}, Major: {Major}, Grad Year: {GraduationYear}";
+        }
+
+
+        public override string ToPatronString()
+        {
+            return $"Name: {Name}, ID: {ID}";
         }
     }
 }
