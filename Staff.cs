@@ -1,4 +1,4 @@
-﻿namespace libraryManagementSystem
+﻿namespace USFLibraryManagementSystem
 {
     public class Staff : Person
     {
