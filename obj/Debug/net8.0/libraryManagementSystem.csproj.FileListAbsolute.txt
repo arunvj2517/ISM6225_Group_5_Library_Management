@@ -1,0 +1,15 @@
+C:\Users\arunv\Source\Repos\ISM6225_Group_5_Library_Management\bin\Debug\net8.0\libraryManagementSystem.exe
+C:\Users\arunv\source\repos\ISM6225_Group_5_Library_Management\bin\Debug\net8.0\libraryManagementSystem.deps.json
+C:\Users\arunv\source\repos\ISM6225_Group_5_Library_Management\bin\Debug\net8.0\libraryManagementSystem.runtimeconfig.json
+C:\Users\arunv\Source\Repos\ISM6225_Group_5_Library_Management\bin\Debug\net8.0\libraryManagementSystem.dll
+C:\Users\arunv\Source\Repos\ISM6225_Group_5_Library_Management\bin\Debug\net8.0\libraryManagementSystem.pdb
+C:\Users\arunv\Source\Repos\ISM6225_Group_5_Library_Management\obj\Debug\net8.0\libraryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arunv\Source\Repos\ISM6225_Group_5_Library_Management\obj\Debug\net8.0\libraryManagementSystem.AssemblyInfoInputs.cache
+C:\Users\arunv\Source\Repos\ISM6225_Group_5_Library_Management\obj\Debug\net8.0\libraryManagementSystem.AssemblyInfo.cs
+C:\Users\arunv\Source\Repos\ISM6225_Group_5_Library_Management\obj\Debug\net8.0\libraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\arunv\Source\Repos\ISM6225_Group_5_Library_Management\obj\Debug\net8.0\libraryManagementSystem.sourcelink.json
+C:\Users\arunv\Source\Repos\ISM6225_Group_5_Library_Management\obj\Debug\net8.0\libraryManagementSystem.dll
+C:\Users\arunv\Source\Repos\ISM6225_Group_5_Library_Management\obj\Debug\net8.0\refint\libraryManagementSystem.dll
+C:\Users\arunv\Source\Repos\ISM6225_Group_5_Library_Management\obj\Debug\net8.0\libraryManagementSystem.pdb
+C:\Users\arunv\source\repos\ISM6225_Group_5_Library_Management\obj\Debug\net8.0\libraryManagementSystem.genruntimeconfig.cache
+C:\Users\arunv\source\repos\ISM6225_Group_5_Library_Management\obj\Debug\net8.0\ref\libraryManagementSystem.dll

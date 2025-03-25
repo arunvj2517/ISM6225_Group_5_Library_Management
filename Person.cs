@@ -1,9 +1,5 @@
-﻿namespace libraryManagementSystem
+﻿namespace USFLibraryManagementSystem
 {
-    public class Person
-    {
-        static void Main(string[] args)
-        {
             public class Person
         {
             public string Name;
@@ -31,5 +27,4 @@
 
         }
     }
-    }
-}
+    
