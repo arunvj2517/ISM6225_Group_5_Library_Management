@@ -1,10 +1,20 @@
 ﻿namespace libraryManagementSystem
 {
-    public class Staff
+    public class Staff : Person
     {
-        static void Main(string[] args)
+        public string Position;
+        public string Department;
+
+        public Staff(string name, string email, string id, string position, string department)
+            : base(name, email, id)
         {
-            Console.WriteLine("Initial code base for staff class");
+            Position = position;
+            Department = department;
+        }
+
+        public override string ToString()
+        {
+            return base.ToString() + $", Position: {Position}, Department: {Department}";
         }
     }
 }
